@@ -95,6 +95,7 @@ public class EjercicioVector {
                 //si alguno de los vectores son impares se dividen
                 division = suma2 / suma;
                 JOptionPane.showMessageDialog(null, "Division es igual a: " + (division));
+                JOptionPane.showMessageDialog(null, "Hola Mundo en Introduccion a la Ingenieria de Software");
 
             }
         }
